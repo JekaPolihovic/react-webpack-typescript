@@ -9,7 +9,7 @@ class App extends React.Component<Record<string, unknown>, undefined> {
     return (
       <div className="app">
         <h1>Hello World!</h1>
-        <p>Foo to the barz</p>
+        <p>Build your project at a fast pace</p>
         <img src={reactLogo.default} height="480" />
       </div>
     );
